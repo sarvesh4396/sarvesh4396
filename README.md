@@ -6,10 +6,10 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 [![Github](https://img.shields.io/github/followers/sarvesh4396?label=Follow&style=social)](https://github.com/sarvesh4396)
 
 ## Talking about Personal Stuffs:
-- 🏢 I'm a student.
-- 👀 I’m interested in bash.
-- 🌱 I’m currently learning flutter,
-- 💞️ I’m looking to collaborate on still searching.....
+- 🏢 I'm a **student.**
+- 👀 I’m interested in **bash & linux stuff.**
+- 🌱 I’m currently learning **flutter,machine learning.**
+- 💞️ I’m looking to collaborate on still ***searching.....***
 
 ## 🧰 Languages and Tools:
 <p align="center">
