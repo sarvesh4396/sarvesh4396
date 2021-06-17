@@ -33,8 +33,10 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 📈 **My GitHub Stats:**
 
 ![](https://github-readme-stats.vercel.app/api?username=sarvesh4396&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+        
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh4396&show_icons=true&locale=en&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh4396)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarvesh4396&theme=flag-india)](https://git.io/streak-stats)
 
 
 <!---
