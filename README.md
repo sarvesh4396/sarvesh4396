@@ -8,7 +8,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 ## Talking about Personal Stuffs:
 - 🏢 I'm a **student.**
 - 👀 I’m interested in **bash & linux stuff.**
-- 🌱 I’m currently learning **flutter,machine learning.**
+- 🌱 I’m currently learning **flutter,machine learning,web development**
 - 💞️ I’m looking to collaborate on still ***searching.....***
 
 ## 🧰 Languages and Tools:
