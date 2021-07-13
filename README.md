@@ -1,7 +1,6 @@
 Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarvesh4396)](https://github.com/ryo-ma/github-profile-trophy)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![badge](https://visitor-badge.laobi.icu/badge?page_id=sarvesh4396.sarvesh4396)
 [![Github](https://img.shields.io/github/followers/sarvesh4396?label=Follow&style=social)](https://github.com/sarvesh4396)
@@ -12,7 +11,8 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 - 👀 I’m interested in **bash & linux stuff.**
 - 💞️ I’m looking to collaborate on still ***searching.....***
 
-## 🧰 Languages and Tools
+<details>
+<summary><strong>🧰 Languages and Tools</strong></summary>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50">
@@ -31,6 +31,9 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="50" height="50">
 </p>
 
+</details>
+
+<br>
 
 <details>
 <summary><strong>🌱 Learning/Working ?</strong></summary>
@@ -39,6 +42,15 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 - AI and ML
 - Frontend Development
 - Building: [GitFolio](https://github.com/sarvesh4396/GitFolio)
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🏆 Trophies</strong></summary>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarvesh4396)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 
