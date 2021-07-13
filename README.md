@@ -10,7 +10,6 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 - 🏢 I'm a **student.**
 - 👀 I’m interested in **bash & linux stuff.**
-- 🌱 I’m currently learning **flutter,machine learning,web development**
 - 💞️ I’m looking to collaborate on still ***searching.....***
 
 ## 🧰 Languages and Tools
@@ -32,33 +31,36 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="50" height="50">
 </p>
 
+
 <details>
- <summary><strong>Learning/Working ?</strong></summary>
- <ul>
-   <li> Flutter </li>
-   <li> AI and ML </li>
-   <li> Frontend development </li>
-  </ul>
+<summary><strong>🌱 Learning/Working ?</strong></summary>
+
+- Flutter
+- AI and ML
+- Frontend Development
+- Building: [GitFolio](https://github.com/sarvesh4396/GitFolio)
+
 </details>
 
 <br>
 
 <details>
-<summary><strong>📈 **My GitHub Stats:**</strong></summary>
+
+<summary>
+<strong>📈 My GitHub Stats</strong></summary>
 
 ![Sarvesh4396's github stats](https://github-readme-stats.vercel.app/api?username=sarvesh4396&show_icons=true&hide_border=true&&count_private=true&hide_border=true&title_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh4396&layout=compact&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh4396&layout=compact&hide_border=true&title_color=000&langs_count=8)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarvesh4396&theme=flag-india&hide_border=true&ring=DD2727&sideNums=100303B8&stroke=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarvesh4396&theme=flag-india&hide_border=true&ring=DD2727&sideNums=100303B8&stroke=DD2727)]
 
 </details>
 
 <br>
 
 <!-- <details>
-<summary><strong>📈 **Recents: **</strong></summary>
+<summary><strong>✨ Recent</strong></summary>
 </details> -->
-
 
 <!---
 sarvesh4396/sarvesh4396 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
