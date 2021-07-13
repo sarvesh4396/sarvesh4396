@@ -3,8 +3,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sarvesh4396)](https://github.com/ryo-ma/github-profile-trophy)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<!-- ![badge](https://visitor-badge.laobi.icu/badge?page_id=sarvesh4396.sarvesh4396) -->
-<!-- https://github.com/search?o=desc&q=author%3Asarvesh4396&s=committer-date&type=Commits -->
+![badge](https://visitor-badge.laobi.icu/badge?page_id=sarvesh4396.sarvesh4396)
 [![Github](https://img.shields.io/github/followers/sarvesh4396?label=Follow&style=social)](https://github.com/sarvesh4396)
 
 ## Talking about Personal Stuffs
