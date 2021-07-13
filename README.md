@@ -2,6 +2,8 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+&nbsp;
+
 ![badge](https://visitor-badge.laobi.icu/badge?page_id=sarvesh4396.sarvesh4396)
 [![Github](https://img.shields.io/github/followers/sarvesh4396?label=Follow&style=social)](https://github.com/sarvesh4396)
 
@@ -13,6 +15,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <details>
 <summary><strong>🧰 Languages and Tools</strong></summary>
+&nbsp;
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50">
@@ -36,7 +39,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 <br>
 
 <details>
-<summary><strong>🌱 Learning/Working ?</strong></summary>
+<summary><strong>🌱 Learning/Working ?</strong></summary>&nbsp;
 
 - Flutter
 - AI and ML
@@ -49,6 +52,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <details>
 <summary><strong>🏆 Trophies</strong></summary>
+&nbsp;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sarvesh4396)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -59,12 +63,12 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 <details>
 
 <summary>
-<strong>📈 My GitHub Stats</strong></summary>
+<strong>📈 My GitHub Stats</strong></summary>&nbsp;
 
 ![Sarvesh4396's github stats](https://github-readme-stats.vercel.app/api?username=sarvesh4396&show_icons=true&hide_border=true&&count_private=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh4396&layout=compact&hide_border=true&title_color=000&langs_count=8)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarvesh4396&theme=flag-india&hide_border=true&ring=DD2727&sideNums=100303B8&stroke=DD2727)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarvesh4396&theme=flag-india&hide_border=true&ring=DD2727&sideNums=100303B8&stroke=DD2727)
 
 </details>
 
