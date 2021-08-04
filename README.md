@@ -45,7 +45,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 - Flutter
 - AI and ML
 - Frontend Development
-- Building: [GitFolio](https://github.com/sarvesh4396/GitFolio)
+<!-- - Building: [GitFolio](https://github.com/sarvesh4396/GitFolio) -->
 
 </details>
 
