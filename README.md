@@ -1,8 +1,9 @@
+<!-- markdownlint-disable MD041 MD033 -->
 Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-&nbsp;
+&nbsp;  <!-- line break -->
 
 ![badge](https://visitor-badge.laobi.icu/badge?page_id=sarvesh4396.sarvesh4396)
 [![Github](https://img.shields.io/github/followers/sarvesh4396?label=Follow&style=social)](https://github.com/sarvesh4396)
@@ -15,7 +16,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <details>
 <summary><strong>🧰 Languages and Tools</strong></summary>
-&nbsp;
+&nbsp;  <!-- line break -->
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50">
@@ -36,10 +37,10 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 </details>
 
-<br>
+&nbsp;  <!-- line break -->
 
 <details>
-<summary><strong>🌱 Learning/Working ?</strong></summary>&nbsp;
+<summary><strong>🌱 Learning/Working ?</strong></summary>&nbsp;  <!-- line break -->
 
 - Flutter
 - AI and ML
@@ -48,22 +49,22 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 </details>
 
-<br>
+&nbsp;  <!-- line break -->
 
 <details>
 <summary><strong>🏆 Trophies</strong></summary>
-&nbsp;
+&nbsp;  <!-- line break -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sarvesh4396)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 
-<br>
+&nbsp;  <!-- line break -->
 
 <details>
 
 <summary>
-<strong>📈 My GitHub Stats</strong></summary>&nbsp;
+<strong>📈 My GitHub Stats</strong></summary>&nbsp;  <!-- line break -->
 
 ![Sarvesh4396's github stats](https://github-readme-stats.vercel.app/api?username=sarvesh4396&show_icons=true&hide_border=true&&count_private=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh4396&layout=compact&hide_border=true&title_color=000&langs_count=8)
@@ -72,11 +73,39 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 </details>
 
-<br>
+&nbsp;  <!-- line break -->
 
-<!-- <details>
+<details>
 <summary><strong>✨ Recent</strong></summary>
-</details> -->
+
+&nbsp;  <!-- line break -->
+<!-- YOUTUBE:START -->
+<ul>
+<details>
+<summary><strong>Youtube</strong></summary>
+</details>
+</ul>
+<!-- YOUTUBE:END -->
+
+&nbsp;  <!-- line break -->
+
+<!-- <ul>
+<details>
+<summary><strong>Blog</strong></summary>
+</details>
+</ul> -->
+
+&nbsp;  <!-- line break -->
+
+<!-- <ul>
+<details>
+<summary><strong>Commits</strong></summary>
+</details>
+</ul> -->
+
+&nbsp;  <!-- line break -->
+
+</details>
 
 <!---
 sarvesh4396/sarvesh4396 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
