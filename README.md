@@ -96,7 +96,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 </ul> -->
 
 &nbsp;  <!-- line break -->
-<!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
 <ul>
 <details>
 <summary><strong>Github Recent Activities</strong></summary>
