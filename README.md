@@ -96,13 +96,15 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 </ul> -->
 
 &nbsp;  <!-- line break -->
-<!--START_SECTION:activity-->
+
 <ul>
 <details>
 <summary><strong>Github Recent Activities</strong></summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
 </ul>
-<!--END_SECTION:activity-->
+
 &nbsp;  <!-- line break -->
 
 </details>
