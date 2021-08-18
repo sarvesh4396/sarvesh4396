@@ -87,7 +87,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 </ul>
 <!-- YOUTUBE:END -->
 
-&nbsp;  <!-- line break -->
+<!-- &nbsp;  line break -->
 
 <!-- <ul>
 <details>
@@ -96,13 +96,13 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 </ul> -->
 
 &nbsp;  <!-- line break -->
-
-<!-- <ul>
+<!--END_SECTION:activity-->
+<ul>
 <details>
-<summary><strong>Commits</strong></summary>
+<summary><strong>Github Recent Activities</strong></summary>
 </details>
-</ul> -->
-
+</ul>
+<!--END_SECTION:activity-->
 &nbsp;  <!-- line break -->
 
 </details>
