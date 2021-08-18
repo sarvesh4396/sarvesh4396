@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: RECENT_ACTIVITIES
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.RECENT_ACTIVITES }}
