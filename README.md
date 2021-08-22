@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD041 MD033 -->
+<!-- markdownlint-disable MD041 MD033 MD001 -->
 
 Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30">
@@ -74,40 +74,22 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 </details>
 
-&nbsp; <!-- line break -->
+---
 
-<details>
-<summary><strong>✨ Recent</strong></summary>
-&nbsp; <!-- line break -->
-<ul>
-<details>
-<summary><strong>Youtube</strong></summary>
+#### ✨ Recent
+
+##### Youtube
+
 <!-- YOUTUBE:START -->
-- [Hey Coder Lets Begin](https://www.youtube.com/watch?v=ixWx_DqGTb0)
+
 <!-- YOUTUBE:END -->
-</details>
-</ul>
 
-&nbsp; <!-- line break -->
+##### Github Recent Activities
 
-<!-- <ul>
-<details>
-<summary><strong>Blog</strong></summary>
-</details>
-</ul> -->
-
-<ul>
-<details>
-<summary><strong>Github Recent Activities</strong></summary>
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#19](https://github.com/Naategh/PyCk/issues/19) in [Naategh/PyCk](https://github.com/Naategh/PyCk)
 <!--END_SECTION:activity-->
-</details>
-</ul>
-
-&nbsp; <!-- line break -->
-
-</details>
 
 <!---
 sarvesh4396/sarvesh4396 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
