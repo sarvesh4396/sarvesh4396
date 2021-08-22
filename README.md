@@ -80,11 +80,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 &nbsp;  <!-- line break -->
 <!-- YOUTUBE:START -->
-<ul>
-<details>
-<summary><strong>Youtube</strong></summary>
-</details>
-</ul>
+- [Hey Coder Lets Begin](https://www.youtube.com/watch?v=ixWx_DqGTb0)
 <!-- YOUTUBE:END -->
 
 <!-- &nbsp;  line break -->
