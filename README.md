@@ -1,9 +1,10 @@
 <!-- markdownlint-disable MD041 MD033 -->
+
 Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-&nbsp;  <!-- line break -->
+&nbsp; <!-- line break -->
 
 ![badge](https://visitor-badge.laobi.icu/badge?page_id=sarvesh4396.sarvesh4396)
 [![Github](https://img.shields.io/github/followers/sarvesh4396?label=Follow&style=social)](https://github.com/sarvesh4396)
@@ -12,7 +13,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 - 🏢 I'm a **student.**
 - 👀 I’m interested in **bash & linux stuff.**
-- 💞️ I’m looking to collaborate on still ***searching.....***
+- 💞️ I’m looking to collaborate on still **_searching....._**
 
 <details>
 <summary><strong>🧰 Languages and Tools</strong></summary>
@@ -37,7 +38,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 </details>
 
-&nbsp;  <!-- line break -->
+&nbsp; <!-- line break -->
 
 <details>
 <summary><strong>🌱 Learning/Working ?</strong></summary>&nbsp;  <!-- line break -->
@@ -49,7 +50,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 </details>
 
-&nbsp;  <!-- line break -->
+&nbsp; <!-- line break -->
 
 <details>
 <summary><strong>🏆 Trophies</strong></summary>
@@ -59,7 +60,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 </details>
 
-&nbsp;  <!-- line break -->
+&nbsp; <!-- line break -->
 
 <details>
 
@@ -73,15 +74,23 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 </details>
 
-&nbsp;  <!-- line break -->
+&nbsp; <!-- line break -->
 
 <details>
 <summary><strong>✨ Recent</strong></summary>
 
-&nbsp;  <!-- line break -->
+<ul>
+<details>
+<summary><strong>Youtube</strong></summary>
 <!-- YOUTUBE:START -->
 - [Hey Coder Lets Begin](https://www.youtube.com/watch?v=ixWx_DqGTb0)
 <!-- YOUTUBE:END -->
+</details>
+</ul>
+
+&nbsp; <!-- line break -->
+
+</details>
 
 <!-- &nbsp;  line break -->
 
@@ -91,7 +100,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 </details>
 </ul> -->
 
-&nbsp;  <!-- line break -->
+&nbsp; <!-- line break -->
 
 <ul>
 <details>
@@ -102,7 +111,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 </details>
 </ul>
 
-&nbsp;  <!-- line break -->
+&nbsp; <!-- line break -->
 
 </details>
 
