@@ -84,32 +84,11 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 - [Hey Coder Lets Begin](https://www.youtube.com/watch?v=ixWx_DqGTb0)
 
-
-
-
-
-
-
-
-
-
-
-
 <!-- YOUTUBE:END -->
 
 ##### Github Recent Activities
 
 <!--START_SECTION:activity-->
-
-
-
-
-
-
-
-
-
-
 
 <!--END_SECTION:activity-->
 
