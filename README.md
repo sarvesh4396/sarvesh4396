@@ -101,10 +101,6 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#13](https://github.com/jYOTIHARODE/Hacktoberfest2021/pull/13) in [jYOTIHARODE/Hacktoberfest2021](https://github.com/jYOTIHARODE/Hacktoberfest2021)
-
-
-
 
 
 
