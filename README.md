@@ -88,7 +88,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#19](https://github.com/Naategh/PyCk/issues/19) in [Naategh/PyCk](https://github.com/Naategh/PyCk)
+1. 💪 Opened PR [#465](https://github.com/keshavsingh4522/hacktoberfest2021/pull/465) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
 <!--END_SECTION:activity-->
 
 <!---
