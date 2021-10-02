@@ -13,3 +13,5 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.RECENT_ACTIVITES }}
+        with:
+          MAX_LINES: 5
