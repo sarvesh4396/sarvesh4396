@@ -93,11 +93,11 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 2. 💪 Opened PR [#120](https://github.com/ory/sdk/pull/120) in [ory/sdk](https://github.com/ory/sdk)
 
-<br>
+3. 💪 Opened PR [#1834](https://github.com/bridgecrewio/checkov/pull/1834) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
 
-<br>
+4. 💪 Opened PR [#1833](https://github.com/bridgecrewio/checkov/pull/1833) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
 
-<br>
+5. 🗣 Commented on [#3728](https://github.com/jina-ai/jina/issues/3728) in [jina-ai/jina](https://github.com/jina-ai/jina)
 
 <br>
 
