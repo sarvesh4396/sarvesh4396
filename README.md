@@ -87,7 +87,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 ##### Github Recent Activities
 
 <!--START_SECTION:activity-->
-<br>
+1. 💪 Opened PR [#120](https://github.com/ory/sdk/pull/120) in [ory/sdk](https://github.com/ory/sdk)
 
 <!--END_SECTION:activity-->
 
