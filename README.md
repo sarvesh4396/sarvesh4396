@@ -88,19 +88,19 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#372](https://github.com/TAbhay/Hactoberfest-2021/pull/372) in [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021)
+1. ❗️ Opened issue [#1](https://github.com/sarvesh4396/Bash-Scripts/issues/1) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
 
-2. ❌ Closed PR [#9](https://github.com/paypal/paypalhttp_python/pull/9) in [paypal/paypalhttp_python](https://github.com/paypal/paypalhttp_python)
+2. ❌ Closed PR [#372](https://github.com/TAbhay/Hactoberfest-2021/pull/372) in [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021)
 
-3. ❌ Closed PR [#46](https://github.com/LoginRadius/python-sdk/pull/46) in [LoginRadius/python-sdk](https://github.com/LoginRadius/python-sdk)
+3. ❌ Closed PR [#9](https://github.com/paypal/paypalhttp_python/pull/9) in [paypal/paypalhttp_python](https://github.com/paypal/paypalhttp_python)
 
-4. 🗣 Commented on [#1834](https://github.com/bridgecrewio/checkov/issues/1834) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+4. ❌ Closed PR [#46](https://github.com/LoginRadius/python-sdk/pull/46) in [LoginRadius/python-sdk](https://github.com/LoginRadius/python-sdk)
 
-5. 🗣 Commented on [#33639](https://github.com/gatsbyjs/gatsby/issues/33639) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+5. 🗣 Commented on [#1834](https://github.com/bridgecrewio/checkov/issues/1834) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
 
-6. 🗣 Commented on [#265](https://github.com/symblai/symbl-docs/issues/265) in [symblai/symbl-docs](https://github.com/symblai/symbl-docs)
+6. 🗣 Commented on [#33639](https://github.com/gatsbyjs/gatsby/issues/33639) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 
-7. 💪 Opened PR [#1211](https://github.com/ToolJet/ToolJet/pull/1211) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+7. 🗣 Commented on [#265](https://github.com/symblai/symbl-docs/issues/265) in [symblai/symbl-docs](https://github.com/symblai/symbl-docs)
 <!--END_SECTION:activity-->
 
 <!---
