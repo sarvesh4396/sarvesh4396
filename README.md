@@ -88,19 +88,19 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2189](https://github.com/ripienaar/free-for-dev/pull/2189) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+1. ❗️ Opened issue [#2988](https://github.com/EddieHubCommunity/support/issues/2988) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 
-2. ❗️ Opened issue [#1](https://github.com/sarvesh4396/Bash-Scripts/issues/1) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
+2. 💪 Opened PR [#2189](https://github.com/ripienaar/free-for-dev/pull/2189) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-3. ❌ Closed PR [#372](https://github.com/TAbhay/Hactoberfest-2021/pull/372) in [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021)
+3. ❗️ Opened issue [#1](https://github.com/sarvesh4396/Bash-Scripts/issues/1) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
 
-4. ❌ Closed PR [#9](https://github.com/paypal/paypalhttp_python/pull/9) in [paypal/paypalhttp_python](https://github.com/paypal/paypalhttp_python)
+4. ❌ Closed PR [#372](https://github.com/TAbhay/Hactoberfest-2021/pull/372) in [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021)
 
-5. ❌ Closed PR [#46](https://github.com/LoginRadius/python-sdk/pull/46) in [LoginRadius/python-sdk](https://github.com/LoginRadius/python-sdk)
+5. ❌ Closed PR [#9](https://github.com/paypal/paypalhttp_python/pull/9) in [paypal/paypalhttp_python](https://github.com/paypal/paypalhttp_python)
 
-6. 🗣 Commented on [#1834](https://github.com/bridgecrewio/checkov/issues/1834) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+6. ❌ Closed PR [#46](https://github.com/LoginRadius/python-sdk/pull/46) in [LoginRadius/python-sdk](https://github.com/LoginRadius/python-sdk)
 
-7. 🗣 Commented on [#33639](https://github.com/gatsbyjs/gatsby/issues/33639) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+7. 🗣 Commented on [#1834](https://github.com/bridgecrewio/checkov/issues/1834) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
 <!--END_SECTION:activity-->
 
 <!---
