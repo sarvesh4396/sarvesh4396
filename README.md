@@ -88,19 +88,19 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3460](https://github.com/Kong/docs.konghq.com/pull/3460) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
+1. 🗣 Commented on [#3460](https://github.com/Kong/docs.konghq.com/issues/3460) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 
-2. ❗️ Opened issue [#2988](https://github.com/EddieHubCommunity/support/issues/2988) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 💪 Opened PR [#3460](https://github.com/Kong/docs.konghq.com/pull/3460) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 
-3. 💪 Opened PR [#2189](https://github.com/ripienaar/free-for-dev/pull/2189) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+3. ❗️ Opened issue [#2988](https://github.com/EddieHubCommunity/support/issues/2988) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 
-4. ❗️ Opened issue [#1](https://github.com/sarvesh4396/Bash-Scripts/issues/1) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
+4. 💪 Opened PR [#2189](https://github.com/ripienaar/free-for-dev/pull/2189) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-5. ❌ Closed PR [#372](https://github.com/TAbhay/Hactoberfest-2021/pull/372) in [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021)
+5. ❗️ Opened issue [#1](https://github.com/sarvesh4396/Bash-Scripts/issues/1) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
 
-6. ❌ Closed PR [#9](https://github.com/paypal/paypalhttp_python/pull/9) in [paypal/paypalhttp_python](https://github.com/paypal/paypalhttp_python)
+6. ❌ Closed PR [#372](https://github.com/TAbhay/Hactoberfest-2021/pull/372) in [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021)
 
-7. ❌ Closed PR [#46](https://github.com/LoginRadius/python-sdk/pull/46) in [LoginRadius/python-sdk](https://github.com/LoginRadius/python-sdk)
+7. ❌ Closed PR [#9](https://github.com/paypal/paypalhttp_python/pull/9) in [paypal/paypalhttp_python](https://github.com/paypal/paypalhttp_python)
 <!--END_SECTION:activity-->
 
 <!---
