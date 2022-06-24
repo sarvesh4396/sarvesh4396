@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@2.3.3
+      - uses: Readme-Workflows/recent-activity@2.3.4
         env:
           GITHUB_TOKEN: ${{ secrets.RECENT_ACTIVITES }}
         with:
