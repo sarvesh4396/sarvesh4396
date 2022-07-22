@@ -88,11 +88,11 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#164](https://github.com/imRohan/Pantry/issues/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
+1. ❗️ Opened issue [#36](https://github.com/OliBlade/3Cols/issues/36) in [OliBlade/3Cols](https://github.com/OliBlade/3Cols)
 
-2. 💪 Opened PR [#164](https://github.com/imRohan/Pantry/pull/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
+2. 🗣 Commented on [#164](https://github.com/imRohan/Pantry/issues/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
 
-3. ❗️ Opened issue [#2988](https://github.com/EddieHubCommunity/support/issues/2988) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 💪 Opened PR [#164](https://github.com/imRohan/Pantry/pull/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
 
 4. 💪 Opened PR [#2189](https://github.com/ripienaar/free-for-dev/pull/2189) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
