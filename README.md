@@ -88,13 +88,13 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#36](https://github.com/OliBlade/3Cols/issues/36) in [OliBlade/3Cols](https://github.com/OliBlade/3Cols)
+1. 💪 Opened PR [#40](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1/pull/40) in [Polygon-Web3Camp/Web3Camp-Cohort-1](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1)
 
-2. 🗣 Commented on [#164](https://github.com/imRohan/Pantry/issues/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
+2. ❗️ Opened issue [#36](https://github.com/OliBlade/3Cols/issues/36) in [OliBlade/3Cols](https://github.com/OliBlade/3Cols)
 
-3. 💪 Opened PR [#164](https://github.com/imRohan/Pantry/pull/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
+3. 🗣 Commented on [#164](https://github.com/imRohan/Pantry/issues/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
 
-4. 💪 Opened PR [#2189](https://github.com/ripienaar/free-for-dev/pull/2189) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+4. 💪 Opened PR [#164](https://github.com/imRohan/Pantry/pull/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
 
 5. ❗️ Opened issue [#1](https://github.com/sarvesh4396/Bash-Scripts/issues/1) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
 
