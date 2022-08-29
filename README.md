@@ -88,17 +88,17 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#42](https://github.com/glotcode/glot/issues/42) in [glotcode/glot](https://github.com/glotcode/glot)
+1. 💪 Opened PR [#2](https://github.com/sudeep9/mojo/pull/2) in [sudeep9/mojo](https://github.com/sudeep9/mojo)
 
-2. 💪 Opened PR [#40](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1/pull/40) in [Polygon-Web3Camp/Web3Camp-Cohort-1](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1)
+2. ❗️ Opened issue [#42](https://github.com/glotcode/glot/issues/42) in [glotcode/glot](https://github.com/glotcode/glot)
 
-3. ❗️ Opened issue [#36](https://github.com/OliBlade/3Cols/issues/36) in [OliBlade/3Cols](https://github.com/OliBlade/3Cols)
+3. 💪 Opened PR [#40](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1/pull/40) in [Polygon-Web3Camp/Web3Camp-Cohort-1](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1)
 
-4. 🗣 Commented on [#164](https://github.com/imRohan/Pantry/issues/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
+4. ❗️ Opened issue [#36](https://github.com/OliBlade/3Cols/issues/36) in [OliBlade/3Cols](https://github.com/OliBlade/3Cols)
 
-5. 💪 Opened PR [#164](https://github.com/imRohan/Pantry/pull/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
+5. 🗣 Commented on [#164](https://github.com/imRohan/Pantry/issues/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
 
-6. ❌ Closed PR [#372](https://github.com/TAbhay/Hactoberfest-2021/pull/372) in [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021)
+6. 💪 Opened PR [#164](https://github.com/imRohan/Pantry/pull/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
 
 7. ❌ Closed PR [#9](https://github.com/paypal/paypalhttp_python/pull/9) in [paypal/paypalhttp_python](https://github.com/paypal/paypalhttp_python)
 <!--END_SECTION:activity-->
