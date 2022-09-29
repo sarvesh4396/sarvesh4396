@@ -88,19 +88,19 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/DhiWise/DhiBasket/issues/1) in [DhiWise/DhiBasket](https://github.com/DhiWise/DhiBasket)
+1. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-2. 💪 Opened PR [#2](https://github.com/sudeep9/mojo/pull/2) in [sudeep9/mojo](https://github.com/sudeep9/mojo)
+2. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-3. ❗️ Opened issue [#42](https://github.com/glotcode/glot/issues/42) in [glotcode/glot](https://github.com/glotcode/glot)
+3. 🗣 Commented on [#1](https://github.com/sarvesh4396/freeresourceshub/issues/1) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-4. 💪 Opened PR [#40](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1/pull/40) in [Polygon-Web3Camp/Web3Camp-Cohort-1](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1)
+4. ❗️ Opened issue [#1](https://github.com/DhiWise/DhiBasket/issues/1) in [DhiWise/DhiBasket](https://github.com/DhiWise/DhiBasket)
 
-5. ❗️ Opened issue [#36](https://github.com/OliBlade/3Cols/issues/36) in [OliBlade/3Cols](https://github.com/OliBlade/3Cols)
+5. 💪 Opened PR [#2](https://github.com/sudeep9/mojo/pull/2) in [sudeep9/mojo](https://github.com/sudeep9/mojo)
 
-6. 🗣 Commented on [#164](https://github.com/imRohan/Pantry/issues/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
+6. ❗️ Opened issue [#42](https://github.com/glotcode/glot/issues/42) in [glotcode/glot](https://github.com/glotcode/glot)
 
-7. 💪 Opened PR [#164](https://github.com/imRohan/Pantry/pull/164) in [imRohan/Pantry](https://github.com/imRohan/Pantry)
+7. 💪 Opened PR [#40](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1/pull/40) in [Polygon-Web3Camp/Web3Camp-Cohort-1](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1)
 <!--END_SECTION:activity-->
 
 <!---
