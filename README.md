@@ -92,15 +92,15 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 2. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-3. 🗣 Commented on [#1](https://github.com/sarvesh4396/freeresourceshub/issues/1) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+3. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-4. ❗️ Opened issue [#1](https://github.com/DhiWise/DhiBasket/issues/1) in [DhiWise/DhiBasket](https://github.com/DhiWise/DhiBasket)
+4. 🗣 Commented on [#1](https://github.com/sarvesh4396/freeresourceshub/issues/1) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-5. 💪 Opened PR [#2](https://github.com/sudeep9/mojo/pull/2) in [sudeep9/mojo](https://github.com/sudeep9/mojo)
+5. ❗️ Opened issue [#1](https://github.com/DhiWise/DhiBasket/issues/1) in [DhiWise/DhiBasket](https://github.com/DhiWise/DhiBasket)
 
-6. ❗️ Opened issue [#42](https://github.com/glotcode/glot/issues/42) in [glotcode/glot](https://github.com/glotcode/glot)
+6. 💪 Opened PR [#2](https://github.com/sudeep9/mojo/pull/2) in [sudeep9/mojo](https://github.com/sudeep9/mojo)
 
-7. 💪 Opened PR [#40](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1/pull/40) in [Polygon-Web3Camp/Web3Camp-Cohort-1](https://github.com/Polygon-Web3Camp/Web3Camp-Cohort-1)
+7. ❗️ Opened issue [#42](https://github.com/glotcode/glot/issues/42) in [glotcode/glot](https://github.com/glotcode/glot)
 <!--END_SECTION:activity-->
 
 <!---
