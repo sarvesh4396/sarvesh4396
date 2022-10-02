@@ -88,19 +88,19 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+1. 💪 Opened PR [#43](https://github.com/Akuli/python-tutorial/pull/43) in [Akuli/python-tutorial](https://github.com/Akuli/python-tutorial)
 
-2. 💪 Opened PR [#51](https://github.com/metafy-social/daily-python-scripts/pull/51) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
+2. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-3. ❗️ Closed issue [#3](https://github.com/sarvesh4396/freeresourceshub/issues/3) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+3. 💪 Opened PR [#51](https://github.com/metafy-social/daily-python-scripts/pull/51) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
 
-4. 🎉 Merged PR [#4](https://github.com/sarvesh4396/freeresourceshub/pull/4) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+4. ❗️ Closed issue [#3](https://github.com/sarvesh4396/freeresourceshub/issues/3) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-5. 💪 Opened PR [#4](https://github.com/sarvesh4396/freeresourceshub/pull/4) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+5. 🎉 Merged PR [#4](https://github.com/sarvesh4396/freeresourceshub/pull/4) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-6. ❗️ Opened issue [#3](https://github.com/sarvesh4396/freeresourceshub/issues/3) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+6. 💪 Opened PR [#4](https://github.com/sarvesh4396/freeresourceshub/pull/4) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-7. 💪 Opened PR [#447](https://github.com/ossamamehmood/Hacktoberfest2022/pull/447) in [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022)
+7. ❗️ Opened issue [#3](https://github.com/sarvesh4396/freeresourceshub/issues/3) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 <!--END_SECTION:activity-->
 
 <!---
