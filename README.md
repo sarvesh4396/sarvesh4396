@@ -88,19 +88,19 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+1. 💪 Opened PR [#447](https://github.com/ossamamehmood/Hacktoberfest2022/pull/447) in [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022)
 
 2. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
 3. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-4. 🗣 Commented on [#1](https://github.com/sarvesh4396/freeresourceshub/issues/1) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+4. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-5. ❗️ Opened issue [#1](https://github.com/DhiWise/DhiBasket/issues/1) in [DhiWise/DhiBasket](https://github.com/DhiWise/DhiBasket)
+5. 🗣 Commented on [#1](https://github.com/sarvesh4396/freeresourceshub/issues/1) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-6. 💪 Opened PR [#2](https://github.com/sudeep9/mojo/pull/2) in [sudeep9/mojo](https://github.com/sudeep9/mojo)
+6. ❗️ Opened issue [#1](https://github.com/DhiWise/DhiBasket/issues/1) in [DhiWise/DhiBasket](https://github.com/DhiWise/DhiBasket)
 
-7. ❗️ Opened issue [#42](https://github.com/glotcode/glot/issues/42) in [glotcode/glot](https://github.com/glotcode/glot)
+7. 💪 Opened PR [#2](https://github.com/sudeep9/mojo/pull/2) in [sudeep9/mojo](https://github.com/sudeep9/mojo)
 <!--END_SECTION:activity-->
 
 <!---
