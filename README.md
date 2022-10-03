@@ -88,19 +88,19 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2](https://github.com/sarvesh4396/Bash-Scripts/issues/2) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
+1. 💪 Opened PR [#3](https://github.com/VishnuDwivedi/Tweet-Analysis/pull/3) in [VishnuDwivedi/Tweet-Analysis](https://github.com/VishnuDwivedi/Tweet-Analysis)
 
-2. 🎉 Merged PR [#3](https://github.com/sarvesh4396/Bash-Scripts/pull/3) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
+2. ❗️ Closed issue [#2](https://github.com/sarvesh4396/Bash-Scripts/issues/2) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
 
-3. 💪 Opened PR [#3](https://github.com/sarvesh4396/Bash-Scripts/pull/3) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
+3. 🎉 Merged PR [#3](https://github.com/sarvesh4396/Bash-Scripts/pull/3) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
 
-4. ❗️ Opened issue [#2](https://github.com/sarvesh4396/Bash-Scripts/issues/2) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
+4. 💪 Opened PR [#3](https://github.com/sarvesh4396/Bash-Scripts/pull/3) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
 
-5. 💪 Opened PR [#72](https://github.com/metafy-social/daily-python-scripts/pull/72) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
+5. ❗️ Opened issue [#2](https://github.com/sarvesh4396/Bash-Scripts/issues/2) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
 
-6. 💪 Opened PR [#43](https://github.com/Akuli/python-tutorial/pull/43) in [Akuli/python-tutorial](https://github.com/Akuli/python-tutorial)
+6. 💪 Opened PR [#72](https://github.com/metafy-social/daily-python-scripts/pull/72) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
 
-7. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+7. 💪 Opened PR [#43](https://github.com/Akuli/python-tutorial/pull/43) in [Akuli/python-tutorial](https://github.com/Akuli/python-tutorial)
 <!--END_SECTION:activity-->
 
 <!---
