@@ -90,17 +90,17 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 1. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-2. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+2. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-3. ❗️ Opened issue [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+3. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-4. ❗️ Closed issue [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+4. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-5. 🎉 Merged PR [#5](https://github.com/sarvesh4396/freeresourceshub/pull/5) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+5. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-6. 💪 Opened PR [#3](https://github.com/VishnuDwivedi/Tweet-Analysis/pull/3) in [VishnuDwivedi/Tweet-Analysis](https://github.com/VishnuDwivedi/Tweet-Analysis)
+6. ❗️ Opened issue [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-7. ❗️ Closed issue [#2](https://github.com/sarvesh4396/Bash-Scripts/issues/2) in [sarvesh4396/Bash-Scripts](https://github.com/sarvesh4396/Bash-Scripts)
+7. ❗️ Closed issue [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 <!--END_SECTION:activity-->
 
 <!---
