@@ -88,19 +88,19 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/sarvesh4396/unshortener/issues/1) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
+1. ❗️ Closed issue [#1](https://github.com/sarvesh4396/unshortener/issues/1) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
 
-2. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+2. 🎉 Merged PR [#2](https://github.com/sarvesh4396/unshortener/pull/2) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
 
-3. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+3. 💪 Opened PR [#2](https://github.com/sarvesh4396/unshortener/pull/2) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
 
-4. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+4. ❗️ Opened issue [#1](https://github.com/sarvesh4396/unshortener/issues/1) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
 
 5. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-6. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+6. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-7. ❗️ Opened issue [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+7. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 <!--END_SECTION:activity-->
 
 <!---
