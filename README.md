@@ -88,7 +88,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+1. ❗️ Opened issue [#1](https://github.com/sarvesh4396/unshortener/issues/1) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
 
 2. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
@@ -96,11 +96,11 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 4. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-5. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+5. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-6. ❗️ Opened issue [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+6. 🗣 Commented on [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-7. ❗️ Closed issue [#2](https://github.com/sarvesh4396/freeresourceshub/issues/2) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+7. ❗️ Opened issue [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 <!--END_SECTION:activity-->
 
 <!---
