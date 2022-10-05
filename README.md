@@ -88,19 +88,19 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/sarvesh4396/freeresourceshub/issues/7) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+1. 🎉 Merged PR [#7](https://github.com/sarvesh4396/freeresourceshub/pull/7) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
 2. 🗣 Commented on [#7](https://github.com/sarvesh4396/freeresourceshub/issues/7) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-3. ❗️ Closed issue [#1](https://github.com/sarvesh4396/unshortener/issues/1) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
+3. 🗣 Commented on [#7](https://github.com/sarvesh4396/freeresourceshub/issues/7) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-4. 🎉 Merged PR [#2](https://github.com/sarvesh4396/unshortener/pull/2) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
+4. 🗣 Commented on [#7](https://github.com/sarvesh4396/freeresourceshub/issues/7) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-5. 💪 Opened PR [#2](https://github.com/sarvesh4396/unshortener/pull/2) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
+5. ❗️ Closed issue [#1](https://github.com/sarvesh4396/unshortener/issues/1) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
 
-6. ❗️ Opened issue [#1](https://github.com/sarvesh4396/unshortener/issues/1) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
+6. 🎉 Merged PR [#2](https://github.com/sarvesh4396/unshortener/pull/2) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
 
-7. 🗣 Commented on [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+7. 💪 Opened PR [#2](https://github.com/sarvesh4396/unshortener/pull/2) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
 <!--END_SECTION:activity-->
 
 <!---
