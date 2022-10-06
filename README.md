@@ -88,19 +88,19 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#545](https://github.com/meilisearch/meilisearch-python/pull/545) in [meilisearch/meilisearch-python](https://github.com/meilisearch/meilisearch-python)
+1. 🗣 Commented on [#545](https://github.com/meilisearch/meilisearch-python/issues/545) in [meilisearch/meilisearch-python](https://github.com/meilisearch/meilisearch-python)
 
-2. 🎉 Merged PR [#7](https://github.com/sarvesh4396/freeresourceshub/pull/7) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+2. 💪 Opened PR [#545](https://github.com/meilisearch/meilisearch-python/pull/545) in [meilisearch/meilisearch-python](https://github.com/meilisearch/meilisearch-python)
 
-3. 🗣 Commented on [#7](https://github.com/sarvesh4396/freeresourceshub/issues/7) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+3. 🎉 Merged PR [#7](https://github.com/sarvesh4396/freeresourceshub/pull/7) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
 4. 🗣 Commented on [#7](https://github.com/sarvesh4396/freeresourceshub/issues/7) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
 5. 🗣 Commented on [#7](https://github.com/sarvesh4396/freeresourceshub/issues/7) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-6. ❗️ Closed issue [#1](https://github.com/sarvesh4396/unshortener/issues/1) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
+6. 🗣 Commented on [#7](https://github.com/sarvesh4396/freeresourceshub/issues/7) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
-7. 🎉 Merged PR [#2](https://github.com/sarvesh4396/unshortener/pull/2) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
+7. ❗️ Closed issue [#1](https://github.com/sarvesh4396/unshortener/issues/1) in [sarvesh4396/unshortener](https://github.com/sarvesh4396/unshortener)
 <!--END_SECTION:activity-->
 
 <!---
