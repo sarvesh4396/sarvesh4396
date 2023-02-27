@@ -88,7 +88,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#6](https://github.com/sarvesh4396/freeresourceshub/issues/6) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+1. 💪 Opened PR [#105](https://github.com/tortuvshin/open-source-flutter-apps/pull/105) in [tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps)
 
 2. ❗️ Closed issue [#1](https://github.com/sarvesh4396/freeresourceshub/issues/1) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
