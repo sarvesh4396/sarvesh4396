@@ -11,9 +11,8 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 ## Talking about Personal Stuffs
 
-- 🏢 I'm a **student.**
-- 👀 I’m interested in **bash & linux stuff.**
-- 💞️ I’m looking to collaborate on still **_searching....._**
+-  Python & Flutter Developer
+- 👀 I’m interested in **Full Stack App Development**
 
 <details>
 <summary><strong>🧰 Languages and Tools</strong></summary>
