@@ -87,9 +87,9 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#182721](https://github.com/microsoft/vscode/issues/182721) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗ Opened issue [#182721](https://github.com/microsoft/vscode/issues/182721) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
-2. ❗️ Opened issue [#13](https://github.com/massCodeIO/assistant-vscode/issues/13) in [massCodeIO/assistant-vscode](https://github.com/massCodeIO/assistant-vscode)
+2. ❗ Opened issue [#13](https://github.com/massCodeIO/assistant-vscode/issues/13) in [massCodeIO/assistant-vscode](https://github.com/massCodeIO/assistant-vscode)
 
 3. ❌ Closed PR [#12](https://github.com/sarvesh4396/freeresourceshub/pull/12) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
