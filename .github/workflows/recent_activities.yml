@@ -1,7 +1,7 @@
 name: Recent Activities
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 0,6,12,18 * * *"
   workflow_dispatch:
 
 jobs:
