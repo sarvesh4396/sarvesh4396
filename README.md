@@ -87,7 +87,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/sarvesh4396/freeresourceshub/pull/14) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+1. 🗣 Commented on [#7](https://github.com/thrau/notion-objects/issues/7#issuecomment-2838689175) in [thrau/notion-objects](https://github.com/thrau/notion-objects)
 
 2. 🎉 Merged PR [#13](https://github.com/sarvesh4396/freeresourceshub/pull/13) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
 
