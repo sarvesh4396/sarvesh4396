@@ -87,9 +87,9 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/thrau/notion-objects/issues/7#issuecomment-2838689175) in [thrau/notion-objects](https://github.com/thrau/notion-objects)
+1. ❗ Opened issue [#1190](https://github.com/piccolo-orm/piccolo/issues/1190) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
 
-2. 🎉 Merged PR [#13](https://github.com/sarvesh4396/freeresourceshub/pull/13) in [sarvesh4396/freeresourceshub](https://github.com/sarvesh4396/freeresourceshub)
+2. 🗣 Commented on [#7](https://github.com/thrau/notion-objects/issues/7#issuecomment-2838689175) in [thrau/notion-objects](https://github.com/thrau/notion-objects)
 
 3. 🗣 Commented on [#235](https://github.com/piccolo-orm/piccolo_api/issues/235#issuecomment-1612196870) in [piccolo-orm/piccolo_api](https://github.com/piccolo-orm/piccolo_api)
 
