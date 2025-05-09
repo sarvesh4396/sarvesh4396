@@ -87,17 +87,17 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1190](https://github.com/piccolo-orm/piccolo/issues/1190#issuecomment-2855335067) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
+1. 🗣 Commented on [#1190](https://github.com/piccolo-orm/piccolo/issues/1190#issuecomment-2864113407) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
 
-2. 🗣 Commented on [#1190](https://github.com/piccolo-orm/piccolo/issues/1190#issuecomment-2855181942) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
+2. 💪 Opened PR [#1191](https://github.com/piccolo-orm/piccolo/pull/1191) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
 
-3. ❗ Opened issue [#1190](https://github.com/piccolo-orm/piccolo/issues/1190) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
+3. 🗣 Commented on [#1190](https://github.com/piccolo-orm/piccolo/issues/1190#issuecomment-2855335067) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
 
-4. 🗣 Commented on [#7](https://github.com/thrau/notion-objects/issues/7#issuecomment-2838689175) in [thrau/notion-objects](https://github.com/thrau/notion-objects)
+4. 🗣 Commented on [#1190](https://github.com/piccolo-orm/piccolo/issues/1190#issuecomment-2855181942) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
 
-5. 🗣 Commented on [#235](https://github.com/piccolo-orm/piccolo_api/issues/235#issuecomment-1612111871) in [piccolo-orm/piccolo_api](https://github.com/piccolo-orm/piccolo_api)
+5. ❗ Opened issue [#1190](https://github.com/piccolo-orm/piccolo/issues/1190) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
 
-6. 🎉 Merged PR [#1](https://github.com/sarvesh4396/piccolo_api/pull/1) in [sarvesh4396/piccolo_api](https://github.com/sarvesh4396/piccolo_api)
+6. 🗣 Commented on [#7](https://github.com/thrau/notion-objects/issues/7#issuecomment-2838689175) in [thrau/notion-objects](https://github.com/thrau/notion-objects)
 
 7. 💪 Opened PR [#1](https://github.com/sarvesh4396/piccolo_api/pull/1) in [sarvesh4396/piccolo_api](https://github.com/sarvesh4396/piccolo_api)
 <!--END_SECTION:activity-->
