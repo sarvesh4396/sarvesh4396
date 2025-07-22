@@ -87,7 +87,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1190](https://github.com/piccolo-orm/piccolo/issues/1190#issuecomment-2864113407) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
+1. 🎉 Merged PR [#1](https://github.com/sarvesh4396/separate_history/pull/1) in [sarvesh4396/separate_history](https://github.com/sarvesh4396/separate_history)
 
 2. 💪 Opened PR [#1191](https://github.com/piccolo-orm/piccolo/pull/1191) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
 
