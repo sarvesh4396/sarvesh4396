@@ -87,7 +87,7 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/sarvesh4396/separate_history/pull/1) in [sarvesh4396/separate_history](https://github.com/sarvesh4396/separate_history)
+1. 🗣 Commented on [#1405](https://github.com/atuinsh/atuin/issues/1405#issuecomment-4125411899) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
 
 2. 💪 Opened PR [#1191](https://github.com/piccolo-orm/piccolo/pull/1191) in [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo)
 
