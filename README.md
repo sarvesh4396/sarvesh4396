@@ -87,9 +87,9 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#4](https://github.com/sarvesh4396/heycoder_flutter_landing_pages/issues/4) in [sarvesh4396/heycoder_flutter_landing_pages](https://github.com/sarvesh4396/heycoder_flutter_landing_pages)
+1. ℹ️ Labeled issue [#11705](https://github.com/warpdotdev/warp/issues/11705) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
 
-2. ❗ Opened issue [#3](https://github.com/sarvesh4396/heycoder_flutter_landing_pages/issues/3) in [sarvesh4396/heycoder_flutter_landing_pages](https://github.com/sarvesh4396/heycoder_flutter_landing_pages)
+2. ❗ Opened issue [#11705](https://github.com/warpdotdev/warp/issues/11705) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
 
 3. 🗣 Commented on [#1405](https://github.com/atuinsh/atuin/issues/1405#issuecomment-4125411899) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
 
