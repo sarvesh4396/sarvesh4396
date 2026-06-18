@@ -87,17 +87,17 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#5989](https://github.com/livekit/agents/issues/5989) in [livekit/agents](https://github.com/livekit/agents)
+1. 💪 Opened PR [#6148](https://github.com/livekit/agents/pull/6148) in [livekit/agents](https://github.com/livekit/agents)
 
-2. ❗ Opened issue [#5989](https://github.com/livekit/agents/issues/5989) in [livekit/agents](https://github.com/livekit/agents)
+2. ℹ️ Labeled issue [#5989](https://github.com/livekit/agents/issues/5989) in [livekit/agents](https://github.com/livekit/agents)
 
-3. 🗣 Commented on [#11](https://github.com/zerosecrets/cli/issues/11#issuecomment-4640283386) in [zerosecrets/cli](https://github.com/zerosecrets/cli)
+3. ❗ Opened issue [#5989](https://github.com/livekit/agents/issues/5989) in [livekit/agents](https://github.com/livekit/agents)
 
-4. ℹ️ Labeled issue [#11705](https://github.com/warpdotdev/warp/issues/11705) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
+4. 🗣 Commented on [#11](https://github.com/zerosecrets/cli/issues/11#issuecomment-4640283386) in [zerosecrets/cli](https://github.com/zerosecrets/cli)
 
-5. ❗ Opened issue [#11705](https://github.com/warpdotdev/warp/issues/11705) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
+5. ℹ️ Labeled issue [#11705](https://github.com/warpdotdev/warp/issues/11705) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
 
-6. 🗣 Commented on [#7](https://github.com/thrau/notion-objects/issues/7#issuecomment-2838689175) in [thrau/notion-objects](https://github.com/thrau/notion-objects)
+6. ❗ Opened issue [#11705](https://github.com/warpdotdev/warp/issues/11705) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
 
 7. 💪 Opened PR [#1](https://github.com/sarvesh4396/piccolo_api/pull/1) in [sarvesh4396/piccolo_api](https://github.com/sarvesh4396/piccolo_api)
 <!--END_SECTION:activity-->
