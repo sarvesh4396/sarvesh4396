@@ -87,9 +87,9 @@ Hi there, I'm [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6148](https://github.com/livekit/agents/pull/6148) in [livekit/agents](https://github.com/livekit/agents)
+1. 🎉 Merged PR [#2](https://github.com/sarvesh4396/route_schemer/pull/2) in [sarvesh4396/route_schemer](https://github.com/sarvesh4396/route_schemer)
 
-2. 💪 Opened PR [#6148](https://github.com/livekit/agents/pull/6148) in [livekit/agents](https://github.com/livekit/agents)
+2. 💪 Opened PR [#2](https://github.com/sarvesh4396/route_schemer/pull/2) in [sarvesh4396/route_schemer](https://github.com/sarvesh4396/route_schemer)
 
 3. ℹ️ Labeled issue [#5989](https://github.com/livekit/agents/issues/5989) in [livekit/agents](https://github.com/livekit/agents)
 
